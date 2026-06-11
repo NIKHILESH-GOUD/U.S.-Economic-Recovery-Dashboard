@@ -4,7 +4,7 @@ An interactive dashboard analyzing how consumer spending and employment recovere
 
 ## Live Dashboard
 
-[View the live dashboard]()
+[View the live dashboard](https://us-economic-recovery-dashboard-qg3ydwzvyamuuumrfnhzcw.streamlit.app)
 
 ## Business Question
 
