@@ -33,4 +33,4 @@ How did economic recovery from the 2020 downturn vary across U.S. states and inc
 ## Data Attribution
 
 Data from the [Opportunity Insights Economic Tracker](https://tracktherecovery.org/).
-Citation: Chetty, Friedman, Hendren, Stepner, and the Opportunity Insights Team (2020)
+Citation: Chetty, Friedman, Hendren, Stepner, and the Opportunity Insights Team (2020).
