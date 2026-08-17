@@ -16,7 +16,7 @@ How did economic recovery from the 2020 downturn vary across U.S. states and inc
 - **Spending Data:** Anonymized credit card transactions representing percentage changes relative to January 2020 baseline
 - **Employment Data:** Payroll processor records representing percentage changes relative to January 2020 baseline
 - **Analysis Period:** 2020-2023
-- **Tools:** Python, pandas, Plotly, Streamlit
+- **Tools:** Python, pandas, Plotly and Streamlit
 
 ## Key Findings
 
