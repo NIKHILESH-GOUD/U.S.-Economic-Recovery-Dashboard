@@ -8,7 +8,7 @@ An interactive dashboard analyzing how consumer spending and employment recovere
 
 ## Business Question
 
-How did economic recovery from the 2020 downturn vary across U.S. states and income groups? Which populations recovered fastest, and where do structural gaps remain?
+How did economic recovery from the 2020 downturn vary across U.S states and income groups? Which populations recovered fastest, and where do structural gaps remain?
 
 ## Methodology
 
